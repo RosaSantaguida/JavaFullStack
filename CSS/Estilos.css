@@ -1,0 +1,53 @@
+body {
+    background-color: rgb(192, 238, 148);
+    margin: 0px;
+}
+
+h1 {
+    color: rgb(22, 43, 87);
+    background-color: rgb(154, 198, 201);;
+    text-align: center;
+    padding: 15px;
+   }
+
+.clases {
+    color: rgb(22, 43, 87);
+    font-family: 'Lato', sans-serif;
+    font-size: 1.5em;
+}
+li {
+    margin: 5px;
+}
+
+ol li {
+    color: rgb(26, 37, 141);
+}
+
+ol li:hover {
+    font-weight: bold;
+}
+
+li a {
+    text-decoration: none;
+    color: rgb(26, 37, 141);
+}
+
+footer {
+    text-align: center;
+    background-color: rgb(97, 100, 100);
+    padding: 10px;
+    color: white;
+}
+
+#sinNumero {
+    list-style: none;
+}
+
+#especial:hover {
+    font-weight: bolder;
+    font-style: italic;
+}
+#especial {
+    text-decoration: none;
+}
+
